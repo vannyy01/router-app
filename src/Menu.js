@@ -6,7 +6,7 @@ import {NavLink} from 'react-router-dom';
 
 export default () => {
     return (
-        <div>
+        <div className="menu-block">
             <ul>
                 <li><NavLink to="/">Home</NavLink></li>
                 <li><NavLink to="/about">About</NavLink></li>

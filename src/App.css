@@ -22,3 +22,7 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.menu-block {
+  border-bottom: 1px solid #e5e5e5;
+}
